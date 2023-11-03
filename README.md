@@ -1,1 +1,1 @@
-# -soku-eslint-config
+# soku-eslint-config
