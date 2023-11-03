@@ -1,0 +1,17 @@
+{
+  "name": "@soku-conf/eslint-config",
+  "version": "1.0.3",
+  "description": "The personal eslint-config by SokuRitszZ.",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": ["eslint", "eslint-config"],
+  "files": [".eslintrc.js", "index.js", "package.json", "pnpm-lock.yaml", "README.md"],
+  "author": "SokuRitszZ <1062708758@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.9.1",
+    "@typescript-eslint/parser": "^6.9.1",
+    "eslint": "^8.52.0",
+    "eslint-plugin-import": "^2.29.0"
+  }
+}
